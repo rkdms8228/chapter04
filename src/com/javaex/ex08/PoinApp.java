@@ -32,8 +32,7 @@ public class PoinApp {
 		Point p04 = new Point(3, 6); //p02 중복
 		pSet.add(p04);
 		System.out.println(pSet.toString());
-		
-		
+				
 		
 		//hashcode()
 		for(Point p : pSet) {
